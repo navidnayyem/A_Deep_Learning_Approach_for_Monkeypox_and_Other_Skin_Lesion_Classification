@@ -1,6 +1,6 @@
 # A Deep Learning Approach for Monkeypox and Other Skin Lesion Classification
 
-## Group Members
+## Name of Authors
 - **Kazi Shaharair Sharif**  
   Department of Computer Science  
   University of South Dakota  
