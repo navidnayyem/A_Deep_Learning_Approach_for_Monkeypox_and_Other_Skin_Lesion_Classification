@@ -17,8 +17,7 @@
   Department of Computer Science  
   University of South Dakota  
   [jahirul.islam@coyotes.usd.edu](mailto:jahirul.islam@coyotes.usd.edu)  
-  GitHub: [](https://github.com/)
-
+  GitHub: [imjahir](https://github.com/imjahir)
 ## Authors Contribution
 - **Kazi Shaharair Sharif** - Data Preprocessing, Literature Review, Methodology, Results Analysis
 - **Mohammad Navid Nayyem** - Advanced Preprocessing, Validation, Statistical Analysis, Visualization
