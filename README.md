@@ -18,10 +18,6 @@
   University of South Dakota  
   [jahirul.islam@coyotes.usd.edu](mailto:jahirul.islam@coyotes.usd.edu)  
   GitHub: [imjahir](https://github.com/imjahir)
-## Authors Contribution
-- **Kazi Shaharair Sharif** - Data Preprocessing, Literature Review, Methodology, Results Analysis
-- **Mohammad Navid Nayyem** - Advanced Preprocessing, Validation, Statistical Analysis, Visualization
-- **Jahirul Islam** - Model Training, Data Collection, Formal Analysis, Workflow Diagrams
 
 ## Introduction
 Monkeypox is a zoonotic disease with increasing prevalence, and its skin lesions closely resemble those of conditions like chickenpox and cowpox, making accurate diagnosis challenging. This project presents an AI-driven framework for classifying monkeypox and related skin lesions using advanced deep learning techniques.
@@ -83,9 +79,3 @@ Monkeypox is a zoonotic disease with increasing prevalence, and its skin lesions
 - Suitable for **low-resource environments** due to lightweight models
 - Can aid **early detection and disease prevention**
 - Helps clinicians make **informed decisions** efficiently
-
-## Future Work
-- Address **class imbalance** with advanced augmentation
-- **Ensemble methods** for improved classification
-- **Integration with clinical metadata** for enhanced decision-making
-- **Deployment on mobile & edge devices** for real-world use
